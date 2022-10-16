@@ -1,0 +1,10 @@
+shouldComponentUpdate-Life-Cycle-Mehtod
+It can stop rendering
+Use with state with props
+
+shouldComponentUpdate => ye wala life cycle tabhi run krta hai jab kisi state ya props me update hua ho other wise ye work nhi karega
+
+
+
+shouldComponentUpdate ka main use ham ise kisi bhi "Specific condition" pr lga sakte hai or vha pr use put bhi kar sakte hai taki baki rending disturb na kre or jo hame chahiye ham bs vhi condition put kare 
+
